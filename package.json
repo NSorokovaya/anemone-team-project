@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Laslold.github.io/just-do-code",
+  "homepage": "https://nsorokovaya.github.io/anemone-team-project/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /just-do-code/"
+    "build": "parcel build src/*.html --public-url /anemone-team-project/"
   },
   "repository": {
     "type": "git",
